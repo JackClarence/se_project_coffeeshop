@@ -6,6 +6,7 @@
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
   height: 800px;
 }
@@ -32,6 +33,7 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
+  font-weight: 500;
   color: #3f96f3;
 }
 

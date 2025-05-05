@@ -1,8 +1,8 @@
 .footer{
-background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-color: #fff;
-font-family: "Inter", Arial, sans-serif;
-padding: 60px 80px;
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+  color: #fff;
+  font-family: "Inter", Arial, sans-serif;
+  padding: 60px 80px;
 }
 
 .footer__content{
@@ -25,6 +25,8 @@ padding: 60px 80px;
   display: flex;
   align-items: center;
   transition: opacity 0.5s;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__social-link:hover{
