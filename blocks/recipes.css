@@ -31,6 +31,7 @@
   gap: 40px;
   list-style-type: none;
   margin: 0 0 0;
+  padding: 0;
 }
 
 .recipes__iframe {
@@ -45,4 +46,5 @@
   font-size: 20px;
   line-height: 30px;
   justify-content: space-between;
+  margin-bottom: 0;
 }
